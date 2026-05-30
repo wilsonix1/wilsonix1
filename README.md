@@ -1,6 +1,6 @@
 # Wilson Mugabo
 
-**IT Support | Networking | Cybersecurity Foundations | Python & Data Engineering Learner**
+**IT Support | Networking | Cybersecurity Foundations | Python & Data Engineering Expert**
 
 I am an Information Technology graduate based in Portland, Maine, building practical skills in networking, cybersecurity, Linux, Python, Bash, and technical troubleshooting. My projects focus on understanding how systems behave from the ground up: configuring networks, analyzing packets, validating connectivity, and documenting clear technical findings.
 
