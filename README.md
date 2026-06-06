@@ -6,6 +6,8 @@ I am an Information Technology graduate based in Portland, Maine, building pract
 
 I am currently growing toward data engineering and AI data quality work, with a focus on repeatable validation, clean datasets, automation, and infrastructure reliability.
 
+**Live AI Portfolio:** [wilsonix1.github.io/wilsonix1](https://wilsonix1.github.io/wilsonix1/)
+
 ## Focus Areas
 
 - Network configuration and troubleshooting
