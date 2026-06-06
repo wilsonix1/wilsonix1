@@ -21,8 +21,8 @@ I am currently growing toward data engineering and AI data quality work, with a 
 ### AI Showcase Portfolio
 Built a polished static portfolio for an AI Powered Automation Agents curriculum, including smart memory, modern web search, LLM usage, Telegram assistants, creative AI generation, generative UI, and an applied AI Showcase Series.
 
-**Project:** [ai-showcase-portfolio](https://github.com/wilsonix1/wilsonix1/tree/main/ai-showcase-portfolio)  
-**Main file:** [index.html](https://github.com/wilsonix1/wilsonix1/blob/main/ai-showcase-portfolio/index.html)
+**Live site:** [AI Showcase Portfolio](https://wilsonix1.github.io/wilsonix1/)  
+**Source:** [ai-showcase-portfolio](https://github.com/wilsonix1/wilsonix1/tree/main/ai-showcase-portfolio)
 
 **Skills:** HTML, CSS, JavaScript, AI curriculum design, responsive design, canvas interactivity, portfolio storytelling
 
