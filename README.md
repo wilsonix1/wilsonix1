@@ -18,6 +18,14 @@ I am currently growing toward data engineering and AI data quality work, with a 
 
 ## Featured Work
 
+### AI Showcase Portfolio
+Built a polished static portfolio for an AI Powered Automation Agents curriculum, including smart memory, modern web search, LLM usage, Telegram assistants, creative AI generation, generative UI, and an applied AI Showcase Series.
+
+**View:** [AI Showcase Portfolio](https://wilsonix1.github.io/wilsonix1/ai-showcase-portfolio/)  
+**Source:** [ai-showcase-portfolio](https://github.com/wilsonix1/wilsonix1/tree/main/ai-showcase-portfolio)
+
+**Skills:** HTML, CSS, JavaScript, AI curriculum design, responsive design, canvas interactivity, portfolio storytelling
+
 ### Packet Analysis with Wireshark
 Captured and analyzed network traffic to understand protocol behavior, inspect packets, and troubleshoot network issues.
 
