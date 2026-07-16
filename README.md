@@ -16,9 +16,15 @@ I am currently growing toward data engineering and AI data quality work, with a 
 - Linux Ubuntu and Windows systems
 - Python and Bash scripting fundamentals
 - Cybersecurity foundations and secure protocol analysis
+- Terminal-Bench task authoring and AI agent evaluation
 - Data quality, validation, and technical documentation
 
 ## Featured Work
+
+### Project Dynamo / Terminal-Bench Task Authoring
+Created challenging, realistic command-line tasks for evaluating how AI agents work in terminal environments. This work includes designing multi-step problems, building reproducible Harbor task containers, writing deterministic verifiers, and calibrating tasks so strong models can be fairly tested on exploration, debugging, code execution, and edge-case reasoning.
+
+**Skills:** Terminal-Bench, Harbor, Docker, Python, pytest, task design, verifier design, AI agent evaluation, data validation
 
 ### AI Showcase Portfolio
 Built a polished static portfolio for an AI Powered Automation Agents curriculum, including smart memory, modern web search, LLM usage, Telegram assistants, creative AI generation, generative UI, and an applied AI Showcase Series.
@@ -56,6 +62,8 @@ Demonstrated how Telnet can expose credentials in plaintext and compared it with
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundations-0B2545?style=flat)
+![Terminal-Bench](https://img.shields.io/badge/Terminal--Bench-Task%20Authoring-222222?style=flat)
+![Docker](https://img.shields.io/badge/Docker-Reproducible%20Environments-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Currently Learning
 
